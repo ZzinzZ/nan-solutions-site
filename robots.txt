@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://nan.nash-demo.click
+Sitemap: https://nan.nash-demo.click/sitemap.xml
