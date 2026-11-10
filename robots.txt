@@ -1,5 +1,5 @@
 User-Agent: *
 Allow: /
 
-Host: https://nan.nash-demo.click
-Sitemap: https://nan.nash-demo.click/sitemap.xml
+Host: https://nan-solutions.tech
+Sitemap: https://nan-solutions.tech/sitemap.xml
